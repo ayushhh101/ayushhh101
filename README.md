@@ -1,4 +1,4 @@
-<h1 align="center">Hellos , I'm Ayush 👋</h1>
+<h1 align="center">Hello , I'm Ayush 👋</h1>
 <h3 align="center">A FullStack Developer</h3>
 👯 I’m looking to collaborate on WebDev Projects<br>🌱 I’m currently learning React Native<br>💬 Ask me about Web Dev
 
@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-sawant-82254b282) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushsawantt) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushhh101&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushhh101&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhh101&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
